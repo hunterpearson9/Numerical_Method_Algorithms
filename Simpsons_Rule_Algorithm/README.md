@@ -4,6 +4,8 @@ simpson.m
 
 Created by: Hunter Pearson
 
+        [I] = simpson(x,y)
+
 Integrate Experimental Data using Simpson's 1/3 Rule
 
 <dl>
