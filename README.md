@@ -2,8 +2,10 @@ Numerical Methods Algorithms Repository
 --------------------------------------
 *Created by Hunter Pearson*
 
+This repository contains numerical method functions for matlab. These functions were created for MECH 105.
+
 ## falsePosition.m
-False Position Function
+False Position Function - estimate a root using the false position method
 
 function [root,fx,ea,iter] = falsePosition(func,xi,xu,es,maxiter,varargin)
 
@@ -22,9 +24,9 @@ Outputs:
 **iter** - how many iterations were performed*
     
 ## luFactor.m
-LU Factorization Function
+LU Factorization Function - returns unit lower triangular matrix L, upper triangular matrix U, and permutation matrix P such that PA = LU.
 
-[L,U,P] = luFactor(A) returns unit lower triangular matrix L, upper triangular matrix U, and permutation matrix P such that P*A = L*U.
+[L,U,P] = luFactor(A)
   
 Inputs:
 ***A** - square coefficient matrix*
@@ -35,9 +37,9 @@ Outputs:
 **P** - the pivot matrix*
     
 ## simpson.m 
-Simpson's 1/3 Rule
+Simpson's 1/3 Rule - Integrate experimental data using Simpson's 1/3 Rule
 
-Integrate Experimental Data using Simpson's 1/3 Rule
+[I]=simson(x,y)
 
 Inputs:
 ***x** - Independent values (row vector)
