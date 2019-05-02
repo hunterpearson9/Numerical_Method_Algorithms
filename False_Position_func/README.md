@@ -13,7 +13,6 @@ Created by Hunter Pearson
     <dd>xu - the upper guess</dd>
     <dd>es - the desired relative error (default: 0.0001%)</dd>
     <dd>maxiter - the number of iterations desired (default: 200)</dd>
-    
     <dt>Outputs:</dt>
     <dd>root - the estimated root location</dd>
     <dd>fx - the function evaluated at the root location</dd>
