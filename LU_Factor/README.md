@@ -4,7 +4,7 @@ luFactor.m
 
 Created by Hunter Pearson
 
-[L,U,P] = luFactor(A)
+    [L,U,P] = luFactor(A)
   
 Returns unit lower triangular matrix L, upper triangular matrix U, and permutation matrix P such that PA = LU.
   
