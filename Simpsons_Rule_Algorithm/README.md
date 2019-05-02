@@ -4,7 +4,7 @@ simpson.m
 
 Created by: Hunter Pearson
 
-    Integrate Experimental Data using Simpson's 1/3 Rule
+Integrate Experimental Data using Simpson's 1/3 Rule
 
 <dl>
     <dt>Inputs:</dt>
