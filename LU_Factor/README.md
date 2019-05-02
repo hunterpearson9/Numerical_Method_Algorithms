@@ -1,6 +1,6 @@
 luFactor.m
 ---
-####LU Factorization Function
+#### LU Factorization Function
 
 Created by Hunter Pearson
 
