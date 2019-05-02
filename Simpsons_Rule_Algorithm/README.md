@@ -10,7 +10,6 @@ Created by: Hunter Pearson
     <dt>Inputs:</dt>
     <dd>x - Independent values (row vector)</dd>
     <dd>y - Dependent values (row vector)</dd>
-    
     <dt>Outputs:</dt>
     <dd>I - Evaluated integral sum<dd>
 </dl>
